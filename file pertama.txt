@@ -3,3 +3,5 @@ Rincian Materi Ps.Web Msib 5
 2. UI/UX 
 3. my SQL
 4. PHP
+5. Laravel
+6. Rest API
